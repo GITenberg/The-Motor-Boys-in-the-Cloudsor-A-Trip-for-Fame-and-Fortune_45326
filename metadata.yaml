@@ -1,0 +1,33 @@
+_repo: The-Motor-Boys-in-the-Cloudsor-A-Trip-for-Fame-and-Fortune_45326
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nuttall, Charles
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '39751'
+    url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 45326-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Young, Clarence
+    gutenberg_agent_id: '1632'
+    url: http://www.gutenberg.org/2009/agents/1632
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
+description: ''
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+title: The Motor Boys in the Clouds; or, A Trip for Fame and Fortune
+url: http://www.gutenberg.org/ebooks/45326
